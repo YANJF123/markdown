@@ -1,39 +1,39 @@
-# markdownµÄ»ù±¾Óï·¨
+# markdownçš„åŸºæœ¬è¯­æ³•
 
-## ±êÌâ
-ÔÚMarkdownµ±ÖÐÉèÖÃ±êÌâ  
-1 ÔÚÎÄ×Ö¿ªÍ·¼ÓÉÏ"#"Í¨¹ý"#"µÄÊýÁ¿À´±íÊ¾±êÌâ¼¶±ð,Ò»¼¶±êÌâ×î´ó,Ö®ºóÖð½¥±äÐ¡,Áù¼¶×îÐ¡,Ò»¹²ÓÐÁù¼¶±êÌâ.    
-ÀýÈç:  
-# ÎÒÊÇÒ»¼¶±êÌâ  
-## ÎÒÊÇ¶þ¼¶±êÌâ
-### ÎÒÊÇÈý¼¶±êÌâ     
-#### ÎÒÊÇËÄ¼¶±êÌâ  
-##### ÎÒÊÇÎå¼¶±êÌâ
-##### ÎÒÊÇÁù¼¶±êÌâ
+## æ ‡é¢˜
+åœ¨Markdownå½“ä¸­è®¾ç½®æ ‡é¢˜  
+1 åœ¨æ–‡å­—å¼€å¤´åŠ ä¸Š"#"é€šè¿‡"#"çš„æ•°é‡æ¥è¡¨ç¤ºæ ‡é¢˜çº§åˆ«,ä¸€çº§æ ‡é¢˜æœ€å¤§,ä¹‹åŽé€æ¸å˜å°,å…­çº§æœ€å°,ä¸€å…±æœ‰å…­çº§æ ‡é¢˜.    
+ä¾‹å¦‚:  
+# æˆ‘æ˜¯ä¸€çº§æ ‡é¢˜  
+## æˆ‘æ˜¯äºŒçº§æ ‡é¢˜
+### æˆ‘æ˜¯ä¸‰çº§æ ‡é¢˜     
+#### æˆ‘æ˜¯å››çº§æ ‡é¢˜  
+##### æˆ‘æ˜¯äº”çº§æ ‡é¢˜
+##### æˆ‘æ˜¯å…­çº§æ ‡é¢˜
     
-## ÁÐ±í
-1. ÁÐ±í·ÖÎªÓÐÐòµÄºÍÎÞÐòÁÐ±í,ÎÞÐòÁÐ±íÓÃ`+ / -/ *`µÈ·ûºÅÈÎÒâ±íÊ¾.(·ûºÅºó¼ÓÒ»¸ö¿Õ¸ñ)  
-    ÀýÈç:
-    + ÎÞÐòÁÐ±íÓÃ'+ '±íÊ¾ 
-    - ÎÞÐòÁÐ±íÓÃ'- '±íÊ¾
-    * ÎÞÐòÁÐ±íÓÃ'* '±íÊ¾
-2. ÓÐÐòÁÐ±íÓÃÊý×Ö±íÊ¾,Ðè×Ô¼ºÌí¼Ó.  
-ÀýÈç:
-    1. Êý×Ö1+µã(.)+¿Õ¸ñ
-    2. Êý×Ö2+µã(.)+¿Õ¸ñ
-    3. Êý×Ö3+µã(.)+¿Õ¸ñ
+## åˆ—è¡¨
+1. åˆ—è¡¨åˆ†ä¸ºæœ‰åºçš„å’Œæ— åºåˆ—è¡¨,æ— åºåˆ—è¡¨ç”¨`+ / -/ *`ç­‰ç¬¦å·ä»»æ„è¡¨ç¤º.(ç¬¦å·åŽåŠ ä¸€ä¸ªç©ºæ ¼)  
+    ä¾‹å¦‚:
+    + æ— åºåˆ—è¡¨ç”¨'+ 'è¡¨ç¤º 
+    - æ— åºåˆ—è¡¨ç”¨'- 'è¡¨ç¤º
+    * æ— åºåˆ—è¡¨ç”¨'* 'è¡¨ç¤º
+2. æœ‰åºåˆ—è¡¨ç”¨æ•°å­—è¡¨ç¤º,éœ€è‡ªå·±æ·»åŠ .  
+ä¾‹å¦‚:
+    1. æ•°å­—1+ç‚¹(.)+ç©ºæ ¼
+    2. æ•°å­—2+ç‚¹(.)+ç©ºæ ¼
+    3. æ•°å­—3+ç‚¹(.)+ç©ºæ ¼
 
         
-## ¶ÎÂä  
-        ÔÚMarkdownÖÐÒ»°ãÓÃÁ½¸ö¿Õ¸ñºÍÒ»¸ö»Ø³µÀ´¿ØÖÆ(Enter).  
+## æ®µè½  
+        åœ¨Markdownä¸­ä¸€èˆ¬ç”¨ä¸¤ä¸ªç©ºæ ¼å’Œä¸€ä¸ªå›žè½¦æ¥æŽ§åˆ¶(Enter).  
         
-## ´úÂëÇ¶Èë  
+## ä»£ç åµŒå…¥  
 ``` html
 <DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>markdownµÄ»ù±¾Óï·¨</title>
+    <title>markdownçš„åŸºæœ¬è¯­æ³•</title>
 </head>
 <body>
 
@@ -47,14 +47,15 @@ row 2 col 1 | row 2 col 2
  
  ```
  ```
-## Á´½Ó  
-Á´½ÓµÄÊéÐ´¸ñÊ½:"[] ()"ÖÐÀ¨ºÅÓÃÔÚ±ê¼ÇÁ´½ÓµÄÃû³Æ,Ô²À¨ºÅÓÃÀ´Ð´Á´½ÓµÄ¾ßÌåµØÖ·,µØÖ·±ØÐëÎªÓÐÐ§µÄ.  
-ÀýÈç:
-[°Ù¶È](http://baidu.com)
-[ÓÐµÀ·­Òë](http://fanyi.youdao.com/translate?i=Username%20or%20Email%20Address)
-[¹È¸è](http://google.com/)
-[ÑÅ»¢ËÑË÷](http://search.yahoo.com/)
+## é“¾æŽ¥  
+é“¾æŽ¥çš„ä¹¦å†™æ ¼å¼:"[] ()"ä¸­æ‹¬å·ç”¨åœ¨æ ‡è®°é“¾æŽ¥çš„åç§°,åœ†æ‹¬å·ç”¨æ¥å†™é“¾æŽ¥çš„å…·ä½“åœ°å€,åœ°å€å¿…é¡»ä¸ºæœ‰æ•ˆçš„.  
+ä¾‹å¦‚:
+[ç™¾åº¦](http://baidu.com)
+[æœ‰é“ç¿»è¯‘](http://fanyi.youdao.com/translate?i=Username%20or%20Email%20Address)
+[è°·æ­Œ](http://google.com/)
+[é›…è™Žæœç´¢](http://search.yahoo.com/)
     
-## Í¼Æ¬
-ÀýÈç:
-[Í¼Æ¬](C:\Users\Administrator\Desktop\1.png)
+## å›¾ç‰‡
+ä¾‹å¦‚:
+[å›¾ç‰‡](C:\Users\Administrator\Desktop\1.png)
+## æˆ‘
